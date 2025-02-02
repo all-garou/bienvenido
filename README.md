@@ -1,2 +1,0 @@
-# bienvenido
-interfaz cliente
